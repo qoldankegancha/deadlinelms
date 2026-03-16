@@ -1,0 +1,5 @@
+{
+  "name": "PDF Viewer Clone",
+  "description": "A webpage that looks exactly like a PDF viewer, displaying images from a folder as pages.",
+  "requestFramePermissions": []
+}
